@@ -11,6 +11,13 @@ privilegios**.
 > ejemplos de demostración. Sustitúyelos por la información real antes de
 > publicar.
 
+<img width="1536" height="2752" alt="Arquitectura_y_stack_web_escolar" src="https://github.com/user-attachments/assets/1b5910ea-2867-49a2-bae1-6c963d21f29c" />
+
+<img width="1536" height="2752" alt="Arquitectura_segura_para_servidores" src="https://github.com/user-attachments/assets/40707462-2c82-44b1-b6c1-2db61b7f3351" />
+
+<img width="1536" height="2752" alt="Diseño_Web_Inclusivo_y_Accesible" src="https://github.com/user-attachments/assets/fcb86876-e30c-4cf2-aad7-c699cf368f1d" />
+
+
 ---
 
 ## Características
@@ -88,6 +95,9 @@ sudo nginx -c "$PWD/nginx.conf"   # ajusta root y puerto si es necesario
 
 ---
 
+<img width="1536" height="2752" alt="Metodología_de_Desarrollo_y_Pruebas" src="https://github.com/user-attachments/assets/d69f3fd1-3bb7-4339-bbc2-5b2478c5479c" />
+
+
 ## Docker
 
 ```bash
@@ -144,6 +154,9 @@ El contenedor:
 | `server_tokens` | `off` |
 
 ### OWASP Top 10 (2021)
+
+<img width="1536" height="2752" alt="Aplicación_de_Seguridad_Web_Práctica" src="https://github.com/user-attachments/assets/c45b8696-8c9c-445f-968f-66b40f742ca0" />
+
 
 | Riesgo | Tratamiento en este proyecto |
 | --- | --- |
