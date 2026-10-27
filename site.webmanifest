@@ -1,0 +1,22 @@
+{
+  "name": "U.E.N. Liceo Bolivariano «Simón Rodríguez»",
+  "short_name": "Liceo Simón Rodríguez",
+  "description": "Sitio informativo del Liceo Bolivariano «Simón Rodríguez»: Educación Media General de 1.° a 5.° año, oferta académica, admisión y contacto.",
+  "lang": "es-VE",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f8fd",
+  "theme_color": "#0a2b5e",
+  "categories": ["education", "government"],
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
